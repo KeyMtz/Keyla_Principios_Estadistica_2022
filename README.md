@@ -15,3 +15,4 @@ Semana 3:
 
 Semana 4:
 + :dart: 09/02/2022: sala de computo realizacion de graficas. 
++ :dart: 10/02/2022: sala de computo datos de PROFEPA. 
