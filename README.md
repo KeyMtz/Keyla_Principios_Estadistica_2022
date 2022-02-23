@@ -20,3 +20,7 @@ Semana 4:
 Semana 5:
 + :dart: 16/02/2022: sala de computo trabajo con datos de inventario.
 + :dart: 17/02/2022: sala de computo Estadistica diferencial
+
+Semana 6:
++ :dart: 23/02/2022: recoleccion de datos Semillas de Encino rojo
++ :dart: 24/02/2022: 
