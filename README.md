@@ -23,4 +23,12 @@ Semana 5:
 
 Semana 6:
 + :dart: 23/02/2022: recoleccion de datos Semillas de Encino rojo
-+ :dart: 24/02/2022: 
++ :dart: 24/02/2022: continuacion de recoleccion de datos de semillas. 
+
+Semana 7: 
++ :dart: 02/03/2022: sala de computo importar base de datos de semillas. 
++ :drat: 03/03/2022: preparacion de semillas para germinacion en invernadero. 
+
+Semana 8:
++ :dart: 09/03/2022: ------------------------------------------
++ :dart: 10/03/2022: sala de computo importar base de datos de madera 2x2x2
