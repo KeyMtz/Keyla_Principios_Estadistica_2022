@@ -27,7 +27,7 @@ Semana 6:
 
 Semana 7: 
 + :dart: 02/03/2022: sala de computo importar base de datos de semillas. 
-+ :drat: 03/03/2022: preparacion de semillas para germinacion en invernadero. 
++ :dart: 03/03/2022: preparacion de semillas para germinacion en invernadero. 
 
 Semana 8:
 + :dart: 09/03/2022: ------------------------------------------
