@@ -30,5 +30,13 @@ Semana 7:
 + :dart: 03/03/2022: preparacion de semillas para germinacion en invernadero. 
 
 Semana 8:
-+ :dart: 09/03/2022: ------------------------------------------
-+ :dart: 10/03/2022: sala de computo importar base de datos de madera 2x2x2
++ :dart: 09/03/2022: ------------------------------------------------------
++ :dart: 10/03/2022: sala de computo importar base de datos de madera 2x2x2.
+
+Semana 9: 
++ :dart: 16/03/2022: sala de computo revisar datos de madera.
++ :dart: 17/03/2022: ---------------------------------------
+
+Semana 10:
++ :dart: 23/03/2022: sala de computo pruebas de t en datos de madera.
+
