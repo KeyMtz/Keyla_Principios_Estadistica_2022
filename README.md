@@ -39,4 +39,18 @@ Semana 9:
 
 Semana 10:
 + :dart: 23/03/2022: sala de computo pruebas de t en datos de madera.
++ :dart: 24/03/2022: Examen. 
 
+Semana 11: 
++ :dart: 30/03/2022: sala de computo pruebas de t dependientes. 
++ :dart: 31/03/2022: Revision de Examen. 
+
+Semana 12:
++ :dart: 06/04/2022: Revision de semillas de Encino rojo en el invernadero.
++ :dart: 
+
+Semana 13:
++:dart: Vacaciones 
+
+Semana 14:
++:dart: Vacaciones
