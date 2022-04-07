@@ -7,7 +7,7 @@ library(dplyr)
 #Ejercicio 1------
 
 #Ho= no existe diferencias entre la media observada y la declarada en sus costales
-#H1= la media observada es menor a la declarada en los costales.
+#H1= la media obtenida por el comprador es menor a la media del producto.
 
 costal <- c(87.7, 80.01, 77.28, 78.76, 81.52, 74.2, 80.71, 79.5, 77.87, 81.94, 80.7, 
             82.32, 75.78, 80.19, 83.91, 79.4, 77.52, 77.62, 81.4, 74.89, 82.95, 73.59, 
@@ -18,6 +18,7 @@ costal <- c(87.7, 80.01, 77.28, 78.76, 81.52, 74.2, 80.71, 79.5, 77.87, 81.94, 8
 t.test(costal)
 mean(costal)
 sd(costal)
+t.test(costal, mu=80, alternative = "less")
 
 #¿Cual es el valor de p? = 2.2e-16
 #¿Cual es la media de los costales que compr el ganadero? = 78.91068
@@ -32,7 +33,10 @@ azufre <- c(15.8, 22.7, 26.8, 19.1, 18.5, 14.4, 8.3, 25.9, 26.4, 9.8,
             22.7, 15.2, 23.0, 29.6, 21.9, 10.5, 17.3, 6.2, 18.0, 22.9, 
             24.6, 19.4, 12.3, 15.9, 11.2, 14.7, 20.5, 26.6, 20.1, 17.0, 
             22.3, 27.5, 23.9, 17.5, 11.0, 20.4, 16.2, 20.8, 13.3, 18.1)
-t.test(azufre)
+t.test(azufre, mu=17.5, alternative = "greater")
+t.test(azufre, mu=20.6, alternative = "less")
+
+sd(azufre)
 mean(azufre)
 
 #¿Cual es el valor de p? = 2.2e-16
@@ -45,7 +49,10 @@ mean(azufre)
 url <- "https://raw.githubusercontent.com/mgtagle/MCF-202_Agosto_2021/main/TEMPAIRE_DIA.csv"
 temperatura <- read.csv(url)
 
+
 t.test(temperatura$temp_media)
+
+t.test(temperatura, mu=30, alternative = "less")
 
 #¿Cual es el valor de p? = 2.2e-16
 #¿Cuantos grados de libertad tiene el experimento? = de 23.28216 a 23.97599
