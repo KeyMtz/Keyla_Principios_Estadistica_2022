@@ -50,9 +50,9 @@ Semana 12:
 + :dart: 0704/2022: exposicion de un problema de variables dependientes. 
 
 Semana 13:
-+:dart: 27/04/2022: sala de computo tema nuevo correlacion.
-+:dart: 28/04/2022: sala de computo problemas de ejercicio de correlacion. 
++ :dart: 27/04/2022: sala de computo tema nuevo correlacion.
++ :dart: 28/04/2022: sala de computo problemas de ejercicio de correlacion. 
 
 semana 14: 
-+:dart: 04/05/2022: sala de computo tema nuevo regresion.
-+:dart: 05/05/2022: ------------------------------------------------
++ :dart: 04/05/2022: sala de computo tema nuevo regresion.
++ :dart: 05/05/2022: ------------------------------------------------
