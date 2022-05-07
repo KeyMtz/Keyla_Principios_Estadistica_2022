@@ -47,10 +47,12 @@ Semana 11:
 
 Semana 12:
 + :dart: 06/04/2022: Revision de semillas de Encino rojo en el invernadero.
-+ :dart: 
++ :dart: 0704/2022: exposicion de un problema de variables dependientes. 
 
 Semana 13:
-+:dart: Vacaciones 
++:dart: 27/04/2022: sala de computo tema nuevo correlacion.
++:dart: 28/04/2022: sala de computo problemas de ejercicio de correlacion. 
 
-Semana 14:
-+:dart: Vacaciones
+semana 14: 
++:dart: 04/05/2022: sala de computo tema nuevo regresion.
++:dart: 05/05/2022: ------------------------------------------------
