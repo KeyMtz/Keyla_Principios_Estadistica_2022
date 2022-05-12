@@ -59,3 +59,4 @@ Q4 <- Semillas %>%
   filter(Cond=="Q4")
 hist(Q4$Peso_gr, col = "pink")
 shapiro.test(Q4$Peso_gr)
+
