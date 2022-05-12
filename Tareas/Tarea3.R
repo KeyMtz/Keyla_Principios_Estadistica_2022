@@ -17,7 +17,8 @@ prod(Xi)
 
 prod(Yi)
 
-sum(Xi, Yi)
+sum(Xi * Yi)
+prod(Xi * Yi)
 
 prod(Xi^2, Yi^0.5)
 
@@ -67,7 +68,6 @@ set
 
 # Problema 7 --------------------------------------------------------------
 
-digitos(0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
 #Enumere cinco digitos que tengan una mediana de 7 y una media de 7. 
 conjunto <- c(5, 7, 7, 7, 9)
 median(conjunto)
