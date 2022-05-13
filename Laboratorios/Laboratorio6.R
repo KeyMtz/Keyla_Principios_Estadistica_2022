@@ -96,3 +96,4 @@ dat$Teams[dat$Wins > 40]
 #nombre de los equipos con derrotas entre 10 y 29 
 dat$Teams[dat$Losses >= 10 & dat$Losses <= 29]
 
+
