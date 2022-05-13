@@ -12,7 +12,6 @@ win_loss_perc = wins / (wins + losses)
 #Variables cualitativas
 teams = c("UtJ", "PhS", "DnN", "LAC", "DIM")
 
-
 #Subconjuntos 
 #primer elemento de wins
 wins [1]
