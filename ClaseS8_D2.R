@@ -1,4 +1,5 @@
-#Clases semana 8
+#Clase semana 8 dia 2 
+#10/03/2022
 #Revisar datos de madera 
 #BD maderas 
 
