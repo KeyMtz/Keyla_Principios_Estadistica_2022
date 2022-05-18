@@ -14,7 +14,7 @@ Semana 3:
 + :dart: 03/02/2022: Sala de computo revisar laboratorio y tareas. 
 
 Semana 4:
-+ :dart: 09/02/2022: Sala de computo realizacion de graficas. 
++ :dart: 09/02/2022: Sala de computo realizacion de graficas [Clas4] (Clases/ClaseS4.R) . 
 + :dart: 10/02/2022: Sala de computo datos de PROFEPA. 
 
 Semana 5:
@@ -60,3 +60,7 @@ semana 14:
 Semana 15:
 + :dart: 11/05/2022: Examen 2.
 + :dart: 12/05/2022: Actualizacion de Readme. 
+
+Semana 16:
++ :dart: 18/05/2022: Preparacion del PIA
++ :dart: 19/05/2022: Terminacion del PIA 
