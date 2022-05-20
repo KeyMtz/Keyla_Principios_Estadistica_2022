@@ -1,5 +1,5 @@
 #KeyMtz
-<<<<<<< HEAD
+#23/03/2022
 #Semana 10 dia 1
 #Madera
 
@@ -19,10 +19,10 @@ D.Eb <- madera%>%
 
 t.test(Ebano$Peso_gr, D.Eb$Peso_gr, var.equal = T)
 
-Hipotesis alternativa, hay diferencias.
+#Hipotesis alternativa, hay diferencias.
 
-media de Ebano: 7.971667
-media de D.Eb: 9.940000
+#media de Ebano: 7.971667
+#media de D.Eb: 9.940000
 
 shapiro.test(bar$Peso_gr)
 bar <- madera%>%
@@ -39,15 +39,11 @@ boxplot(madera$Peso_gr ~ madera$Sp, col="lightgreen")
 boxplot(bar$Peso_gr, Chp$Peso_gr, col = "lightgreen")
 
 
-=======
-#Semana 10 
-#23/03/2022
-
 #Ho: no hay diferencia entre los pesos de Ebano y Ebano. 
 #H1: existe diferencia entre los pesos de Ebano y D.Ebano
 #valor alfa 0.05 (siempre es el mismo numero)
 
-madera <- read.csv("Clases/madera.csv", header = T)
+madera <- read.csv("madera.csv", header = T)
 
 library(dplyr)
 
@@ -79,4 +75,4 @@ mean(Bar$Peso_gr)
 boxplot(madera$Peso_gr ~ madera$Sp, col="lightblue")
 boxplot(Ebano$Peso_gr, D.Ebano$Peso_gr, col = "pink")
 boxplot(Bar$Peso_gr, Chp$Peso_gr, col = "purple")
->>>>>>> 239bedbdc9d1294d0ba0080b1ea60e7b4c9eecf5
+
