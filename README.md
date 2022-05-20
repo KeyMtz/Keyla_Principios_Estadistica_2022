@@ -68,7 +68,8 @@ Semana 16:
 + :dart: 19/05/2022: Terminacion del PIA 
 
 + :exclamation: Agregar grafica de contribucion 
-[Contribucion1.png](https://postimg.cc/Kkmg5n1P)
+
+![Contribucion al repositorio](Contribucion1.png)
 
 
 
