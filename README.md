@@ -11,7 +11,9 @@ Semana 2:
 
 Semana 3:
 + :dart: 02/02/2022: Sala de computo instalar credenciales y proyecto.
-+ :dart: 03/02/2022: Sala de computo revisar laboratorio y tareas. 
++ :dart: 03/02/2022: Sala de computo revisar laboratorio y tareas.
++ :pushpin: Laboratorio 1 en R [Laboratorios](Laboratorios/Laboratorios.R)
++ :pushpin: Laboratorio 1 en pdf [Laboratorios](Laboratorios/Laboratorios.pdf)
 
 Semana 4:
 + :dart: 09/02/2022: Sala de computo realizacion de graficas.
