@@ -54,13 +54,11 @@ Semana 8:
 Semana 9: 
 + :dart: 16/03/2022: Sala de computo revisar datos de madera.
 + :pushpin: Trabajo en R [Clases](Clases/ClaseS9D1.R)
-+ :pushpin: Trabajo en pdf 
 + :dart: 17/03/2022: Sin clase por salida a campo.
 
 Semana 10:
 + :dart: 23/03/2022: sala de computo pruebas de t en datos de madera.
 + :pushpin: Trabajo en R [Clases](Clases/ClaseS10D1.R)
-+ :pushpin: Trabajo en pdf 
 + :dart: 24/03/2022: Examen. 
 + :pushpin: Primer Examen en R [Clases](Clases/Examen.R)
 + :pushpin: Primer Examen en pdf [Clases](Clases/Examen.pdf)
@@ -80,10 +78,8 @@ Semana 12:
 Semana 13:
 + :dart: 27/04/2022: Sala de computo tema nuevo correlacion.
 + :pushpin: Trabajo en R [Clases](Clases/ClaseS13D1.R)
-+ :pushpin: Trabajo en pdf 
 + :dart: 28/04/2022: Sala de computo problemas de ejercicio de correlacion. 
 + :pushpin: Trabajo en R [Clases](Clases/ClaseS13D2.R)
-+ :pushpin: Trabajo en pdf 
 
 semana 14: 
 + :dart: 04/05/2022: Sala de computo tema nuevo regresion.
