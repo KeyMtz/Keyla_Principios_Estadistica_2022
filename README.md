@@ -11,6 +11,8 @@ Semana 2:
 
 Semana 3:
 + :dart: 02/02/2022: Sala de computo instalar credenciales y proyecto.
++ :puspin: Tarea 1 en R [Tareas](Tareas/TareaS3D1.R)
++ :pushpin: Tarea 1 en pdf [Tareas](Tareas/TareaS3D1.pdf)
 + :dart: 03/02/2022: Sala de computo revisar laboratorio y tareas.
 + :pushpin: Laboratorio 1 en R [Laboratorios](Laboratorios/Laboratorios.R)
 + :pushpin: Laboratorio 1 en pdf [Laboratorios](Laboratorios/Laboratorios.pdf)
@@ -22,12 +24,16 @@ Semana 4:
 + :dart: 10/02/2022: Sala de computo datos de PROFEPA. 
 + :pushpin: Trabajo en R [Clases](Clases/ClaseS4D2.R)
 + :pushpin: Trabajo en pdf [Clases](Clases/ClaseS4D2.pdf)
++ :pushpin: Laboratorio 2 en R [Laboratorios](Laboratorios/Laboratorio 2.R)
++ :pushpin: Laboratorio 2 en pdf [Laboratorios](Laboratorios/Laboratorio-2.pdf)
 
 Semana 5:
 + :dart: 16/02/2022: Sala de computo trabajo con datos de inventario.
 + :pushpin: Trabajo en R [Clases](Clases/ClaseS5D1.R)
 + :pushpin: Trabajo en pdf [Clases](Clases/ClaseS5D1.pdf)
 + :dart: 17/02/2022: Sala de computo Estadistica diferencial
++ :pushpin: Tarea 3 en R [Tareas](Tareas/Tarea3.R)
++ :pushpin: Tarea 3 en pdf [Tareas](Tareas/Tarea3.pdf)
 
 Semana 6:
 + :dart: 23/02/2022: Recoleccion de datos Semillas de Encino rojo
@@ -65,9 +71,9 @@ Semana 11:
 
 Semana 12:
 + :dart: 06/04/2022: Revision de semillas de Encino rojo en el invernadero.
-+ :dart: 0704/2022: Exposicion de un problema de variables dependientes.
-+ :pushpin: Trabajo en R
-+ :pushpin: Trabajo en pdf 
++ :dart: 07/04/2022: Exposicion de un problema de variables dependientes.
++ :pushpin: Trabajo en R [Clases](Clases/Tarea-S12D2.R)
+
 
 Semana 13:
 + :dart: 27/04/2022: Sala de computo tema nuevo correlacion.
@@ -87,7 +93,9 @@ Semana 15:
 + :dart: 11/05/2022: Examen 2.
 + :pushpin: Trabajo en R
 + :pushpin: Trabajo en pdf  
-+ :dart: 12/05/2022: Actualizacion de Readme. 
++ :dart: 12/05/2022: Actualizacion de Readme.
++ :pushpin: Laboratorio 6 en R [Laboratorios](Laboratorios/Laboratorio6.R)
++ :pushpin: Laboratorio 6 en pdf [Laboratorios](Laboratorios/Laboratorio6.pdf)
 
 Semana 16:
 + :dart: 18/05/2022: Preparacion del PIA
