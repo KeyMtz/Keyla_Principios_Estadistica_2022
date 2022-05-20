@@ -68,5 +68,5 @@ Semana 16:
 
 + :exclamation: Agregar grafica de contribucion 
 
-![Contribucion al repositorio]()
+![Contribucion al repositorio](Clases/Imagenes.R)
 
