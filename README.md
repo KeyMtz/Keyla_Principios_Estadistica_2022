@@ -15,14 +15,14 @@ Semana 3:
 
 Semana 4:
 + :dart: 09/02/2022: Sala de computo realizacion de graficas.
-Trabajo en R [Clases](Clases/ClaseS4.R) 
-Trabajo en pdf [Clases](Clases/ClaseS4.pdf)
++ :pushpin: Trabajo en R [Clases](ClaseS4.R) 
++ :pushpin: Trabajo en pdf [Clases](Clases/ClaseS4.pdf)
 + :dart: 10/02/2022: Sala de computo datos de PROFEPA. 
 
 Semana 5:
 + :dart: 16/02/2022: Sala de computo trabajo con datos de inventario.
-Trabajo en R [Clases](Clases/ClaseS5D1.R)
-Trabajo en pdf [Clases](Clases/ClaseS5D1.pdf)
++ :pushpin: Trabajo en R [Clases](Clases/ClaseS5D1.R)
++ :pushpin: Trabajo en pdf [Clases](Clases/ClaseS5D1.pdf)
 + :dart: 17/02/2022: Sala de computo Estadistica diferencial
 
 Semana 6:
