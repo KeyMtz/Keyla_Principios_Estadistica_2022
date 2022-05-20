@@ -103,9 +103,10 @@ Semana 16:
 + :dart: 18/05/2022: Preparacion del PIA
 + :dart: 19/05/2022: Preparacion del PIA 
 
-+ :exclamation: :boom: Agregar grafica de contribucion :boom: :exclamation:
++ :exclamation: :boom: AGREGAR GRAFICA DE CONTRIBUCION :boom: :exclamation:
 
-![Contribucion al repositorio]()
+![Contribucion al repositorio](Clases/Contribucion1.png)
+![Contribucion al repositorio](Clases/Contribucion2.png)
 
 
 
