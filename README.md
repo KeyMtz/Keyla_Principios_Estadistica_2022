@@ -24,7 +24,7 @@ Semana 4:
 + :dart: 10/02/2022: Sala de computo datos de PROFEPA. 
 + :pushpin: Trabajo en R [Clases](Clases/ClaseS4D2.R)
 + :pushpin: Trabajo en pdf [Clases](Clases/ClaseS4D2.pdf)
-+ :pushpin: Laboratorio 2 en R [Laboratorios](Laboratorios/Laboratorio2.R)
++ :pushpin: Laboratorio 2 en R [Laboratorios](Laboratorios/Laboratorio 2.R)
 + :pushpin: Laboratorio 2 en pdf [Laboratorios](Laboratorios/Laboratorio-2.pdf)
 
 Semana 5:
