@@ -11,7 +11,7 @@ Semana 2:
 
 Semana 3:
 + :dart: 02/02/2022: Sala de computo instalar credenciales y proyecto.
-+ :puspin: Tarea 1 en R [Tareas](Tareas/TareaS3D1.R)
++ :pusphin: Tarea 1 en R [Tareas](Tareas/TareaS3D1.R)
 + :pushpin: Tarea 1 en pdf [Tareas](Tareas/TareaS3D1.pdf)
 + :dart: 03/02/2022: Sala de computo revisar laboratorio y tareas.
 + :pushpin: Laboratorio 1 en R [Laboratorios](Laboratorios/Laboratorios.R)
@@ -24,7 +24,7 @@ Semana 4:
 + :dart: 10/02/2022: Sala de computo datos de PROFEPA. 
 + :pushpin: Trabajo en R [Clases](Clases/ClaseS4D2.R)
 + :pushpin: Trabajo en pdf [Clases](Clases/ClaseS4D2.pdf)
-+ :pushpin: Laboratorio 2 en R [Laboratorios](Laboratorios/Laboratorio 2.R)
++ :pushpin: Laboratorio 2 en R [Laboratorios](Laboratorios/Laboratorio2.R)
 + :pushpin: Laboratorio 2 en pdf [Laboratorios](Laboratorios/Laboratorio-2.pdf)
 
 Semana 5:
@@ -53,15 +53,17 @@ Semana 8:
 
 Semana 9: 
 + :dart: 16/03/2022: Sala de computo revisar datos de madera.
-+ :pushpin: Trabajo en R
-+ :oushpin: Trabajo en pdf 
++ :pushpin: Trabajo en R [Clases](Clases/ClaseS9D1.R)
++ :pushpin: Trabajo en pdf 
 + :dart: 17/03/2022: Sin clase por salida a campo.
 
 Semana 10:
 + :dart: 23/03/2022: sala de computo pruebas de t en datos de madera.
-+ :pushpin: Trabajo en R
++ :pushpin: Trabajo en R [Clases](Clases/ClaseS10D1.R)
 + :pushpin: Trabajo en pdf 
 + :dart: 24/03/2022: Examen. 
++ :pushpin: Primer Examen en R [Clases](Clases/Examen.R)
++ :pushpin: Primer Examen en pdf [Clases](Clases/Examen.pdf)
 
 Semana 11: 
 + :dart: 30/03/2022: sala de computo pruebas de t dependientes.
@@ -77,10 +79,10 @@ Semana 12:
 
 Semana 13:
 + :dart: 27/04/2022: Sala de computo tema nuevo correlacion.
-+ :pushpin: Trabajo en R
++ :pushpin: Trabajo en R [Clases](Clases/ClaseS13D1.R)
 + :pushpin: Trabajo en pdf 
 + :dart: 28/04/2022: Sala de computo problemas de ejercicio de correlacion. 
-+ :pushpin: Trabajo en R
++ :pushpin: Trabajo en R [Clases](Clases/ClaseS13D2.R)
 + :pushpin: Trabajo en pdf 
 
 semana 14: 
@@ -91,8 +93,8 @@ semana 14:
 
 Semana 15:
 + :dart: 11/05/2022: Examen 2.
-+ :pushpin: Trabajo en R
-+ :pushpin: Trabajo en pdf  
++ :pushpin: Segundo Examen en R [Clases](Clases/ExamenS15D1.R)
++ :pushpin: Segundo Examen en pdf [Clases](Clases/ExamenS15D1.pdf)
 + :dart: 12/05/2022: Actualizacion de Readme.
 + :pushpin: Laboratorio 6 en R [Laboratorios](Laboratorios/Laboratorio6.R)
 + :pushpin: Laboratorio 6 en pdf [Laboratorios](Laboratorios/Laboratorio6.pdf)
