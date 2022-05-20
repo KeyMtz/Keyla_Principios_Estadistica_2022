@@ -14,7 +14,9 @@ Semana 3:
 + :dart: 03/02/2022: Sala de computo revisar laboratorio y tareas. 
 
 Semana 4:
-+ :dart: 09/02/2022: Sala de computo realizacion de graficas[Clases](Clases/ClaseS4.R) [Clases](Clases/ClaseS4.pdf)
++ :dart: 09/02/2022: Sala de computo realizacion de graficas.
++ Trabajo en R [Clases](Clases/ClaseS4.R) 
++ Trabajo en pdf [Clases](Clases/ClaseS4.pdf)
 + :dart: 10/02/2022: Sala de computo datos de PROFEPA. 
 
 Semana 5:
