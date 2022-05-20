@@ -15,12 +15,14 @@ Semana 3:
 
 Semana 4:
 + :dart: 09/02/2022: Sala de computo realizacion de graficas.
-+ Trabajo en R [Clases](Clases/ClaseS4.R) 
-+ Trabajo en pdf [Clases](Clases/ClaseS4.pdf)
+Trabajo en R [Clases](Clases/ClaseS4.R) 
+Trabajo en pdf [Clases](Clases/ClaseS4.pdf)
 + :dart: 10/02/2022: Sala de computo datos de PROFEPA. 
 
 Semana 5:
 + :dart: 16/02/2022: Sala de computo trabajo con datos de inventario.
+Trabajo en R [Clases](Clases/ClaseS5D1.R)
+Trabajo en pdf [Clases](Clases/ClaseS5D1.pdf)
 + :dart: 17/02/2022: Sala de computo Estadistica diferencial
 
 Semana 6:
@@ -28,23 +30,33 @@ Semana 6:
 + :dart: 24/02/2022: Continuacion de recoleccion de datos de semillas. 
 
 Semana 7: 
-+ :dart: 02/03/2022: Sala de computo importar base de datos de semillas. 
++ :dart: 02/03/2022: Sala de computo importar base de datos de semillas.
+Trabajo en R
+Trabajo en pdf 
 + :dart: 03/03/2022: Preparacion de semillas para germinacion en invernadero. 
 
 Semana 8:
 + :dart: 09/03/20: Repaso de los temas visto.
 + :dart: 10/03/2022: Sala de computo importar base de datos de madera 2x2x2.
+Trabajo en R
+Trabajo en pdf 
 
 Semana 9: 
 + :dart: 16/03/2022: Sala de computo revisar datos de madera.
+Trabajo en R
+Trabajo en pdf 
 + :dart: 17/03/2022: Sin clase por salida a campo.
 
 Semana 10:
 + :dart: 23/03/2022: sala de computo pruebas de t en datos de madera.
+Trabajo en R
+Trabajo en pdf 
 + :dart: 24/03/2022: Examen. 
 
 Semana 11: 
-+ :dart: 30/03/2022: sala de computo pruebas de t dependientes. 
++ :dart: 30/03/2022: sala de computo pruebas de t dependientes.
+Trabajo en R
+Trabajo en pdf 
 + :dart: 31/03/2022: Revision de Examen. 
 
 Semana 12:
@@ -53,14 +65,22 @@ Semana 12:
 
 Semana 13:
 + :dart: 27/04/2022: Sala de computo tema nuevo correlacion.
+Trabajo en R
+Trabajo en pdf 
 + :dart: 28/04/2022: Sala de computo problemas de ejercicio de correlacion. 
+Trabajo en R
+Trabajo en pdf 
 
 semana 14: 
 + :dart: 04/05/2022: Sala de computo tema nuevo regresion.
+Trabajo en R
+Trabajo en pdf 
 + :dart: 05/05/2022: Dia libre.
 
 Semana 15:
 + :dart: 11/05/2022: Examen 2.
+Trabajo en R
+Trabajo e 
 + :dart: 12/05/2022: Actualizacion de Readme. 
 
 Semana 16:
