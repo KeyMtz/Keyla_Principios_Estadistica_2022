@@ -66,7 +66,7 @@ Semana 16:
 + :dart: 18/05/2022: Preparacion del PIA
 + :dart: 19/05/2022: Terminacion del PIA 
 
-#Agrgar grafica de contribucion 
++ :exclamation: Agregar grafica de contribucion 
 
-![Contribucion al repositorio]("Clases/Contribucion1.png")
+![Contribucion al repositorio]()
 
