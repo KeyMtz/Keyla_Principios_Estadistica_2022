@@ -11,7 +11,7 @@ Semana 2:
 
 Semana 3:
 + :dart: 02/02/2022: Sala de computo instalar credenciales y proyecto.
-+ :pusphin: Tarea 1 en R [Tareas](Tareas/TareaS3D1.R)
++ :pushpin: Tarea 1 en R [Tareas](Tareas/TareaS3D1.R)
 + :pushpin: Tarea 1 en pdf [Tareas](Tareas/TareaS3D1.pdf)
 + :dart: 03/02/2022: Sala de computo revisar laboratorio y tareas.
 + :pushpin: Laboratorio 1 en R [Laboratorios](Laboratorios/Laboratorios.R)
