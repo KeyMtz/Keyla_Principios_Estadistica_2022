@@ -15,9 +15,11 @@ Semana 3:
 
 Semana 4:
 + :dart: 09/02/2022: Sala de computo realizacion de graficas.
-+ :pushpin: Trabajo en R [Clases](ClaseS4.R) 
++ :pushpin: Trabajo en R [Clases](Clases/ClaseS4.R) 
 + :pushpin: Trabajo en pdf [Clases](Clases/ClaseS4.pdf)
 + :dart: 10/02/2022: Sala de computo datos de PROFEPA. 
++ :pushpin: Trabajo en R [Clases](Clases/ClaseS4D2.R)
++ :pushpin: Trabajo en pdf [Clases](Clases/ClaseS4D2.pdf)
 
 Semana 5:
 + :dart: 16/02/2022: Sala de computo trabajo con datos de inventario.
@@ -31,65 +33,67 @@ Semana 6:
 
 Semana 7: 
 + :dart: 02/03/2022: Sala de computo importar base de datos de semillas.
-Trabajo en R
-Trabajo en pdf 
++ :pushpin: Trabajo en R [Clases](Clases/ClaseS7D1.R)
++ :pushpin: Trabajo en pdf [Clases](Clases/ClaseS7D1.pdf)
 + :dart: 03/03/2022: Preparacion de semillas para germinacion en invernadero. 
 
 Semana 8:
 + :dart: 09/03/20: Repaso de los temas visto.
 + :dart: 10/03/2022: Sala de computo importar base de datos de madera 2x2x2.
-Trabajo en R
-Trabajo en pdf 
++ :pushpin: Trabajo en R [Clases](Clases/ClaseS8D2.R)
++ :pushpin: Trabajo en pdf [Clases](Clases/ClaseS8D2.pdf)
 
 Semana 9: 
 + :dart: 16/03/2022: Sala de computo revisar datos de madera.
-Trabajo en R
-Trabajo en pdf 
++ :pushpin: Trabajo en R
++ :oushpin: Trabajo en pdf 
 + :dart: 17/03/2022: Sin clase por salida a campo.
 
 Semana 10:
 + :dart: 23/03/2022: sala de computo pruebas de t en datos de madera.
-Trabajo en R
-Trabajo en pdf 
++ :pushpin: Trabajo en R
++ :pushpin: Trabajo en pdf 
 + :dart: 24/03/2022: Examen. 
 
 Semana 11: 
 + :dart: 30/03/2022: sala de computo pruebas de t dependientes.
-Trabajo en R
-Trabajo en pdf 
++ :pushpin: Trabajo en R [Clases](Clases/ClaseS11D1.R)
++ :pushpin: Trabajo en pdf [Clases](Clases/ClaseS11D1.pdf)
 + :dart: 31/03/2022: Revision de Examen. 
 
 Semana 12:
 + :dart: 06/04/2022: Revision de semillas de Encino rojo en el invernadero.
-+ :dart: 0704/2022: Exposicion de un problema de variables dependientes. 
++ :dart: 0704/2022: Exposicion de un problema de variables dependientes.
++ :pushpin: Trabajo en R
++ :pushpin: Trabajo en pdf 
 
 Semana 13:
 + :dart: 27/04/2022: Sala de computo tema nuevo correlacion.
-Trabajo en R
-Trabajo en pdf 
++ :pushpin: Trabajo en R
++ :pushpin: Trabajo en pdf 
 + :dart: 28/04/2022: Sala de computo problemas de ejercicio de correlacion. 
-Trabajo en R
-Trabajo en pdf 
++ :pushpin: Trabajo en R
++ :pushpin: Trabajo en pdf 
 
 semana 14: 
 + :dart: 04/05/2022: Sala de computo tema nuevo regresion.
-Trabajo en R
-Trabajo en pdf 
++ :pushpin: Trabajo en R [Clases](Clases/ClaseS14D1.R)
++ :pushpin: Trabajo en pdf [Clases](Clases/ClaseS14D1.pdf)
 + :dart: 05/05/2022: Dia libre.
 
 Semana 15:
 + :dart: 11/05/2022: Examen 2.
-Trabajo en R
-Trabajo e 
++ :pushpin: Trabajo en R
++ :pushpin: Trabajo en pdf  
 + :dart: 12/05/2022: Actualizacion de Readme. 
 
 Semana 16:
 + :dart: 18/05/2022: Preparacion del PIA
-+ :dart: 19/05/2022: Terminacion del PIA 
++ :dart: 19/05/2022: Preparacion del PIA 
 
 + :exclamation: Agregar grafica de contribucion 
 
-![Contribucion al repositorio](Contribucion1.png)
+![Contribucion al repositorio]()
 
 
 
